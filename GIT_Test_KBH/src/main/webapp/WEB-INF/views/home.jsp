@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	변경 12ss
+	변경 12
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
